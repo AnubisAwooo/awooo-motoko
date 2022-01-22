@@ -1,0 +1,2 @@
+# awooo-motoko
+learn motoko
